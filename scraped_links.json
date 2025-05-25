@@ -1,0 +1,30 @@
+[
+    {
+        "text": "Home",
+        "href": "index.html"
+    },
+    {
+        "text": "About",
+        "href": "about.html"
+    },
+    {
+        "text": "Skills",
+        "href": "skills.html"
+    },
+    {
+        "text": "Projects",
+        "href": "projects.html"
+    },
+    {
+        "text": "Contact",
+        "href": "contact.html"
+    },
+    {
+        "text": "Download My Resume (PDF)",
+        "href": "resume.pdf"
+    },
+    {
+        "text": "Download Certificate (DOCX)",
+        "href": "certificate.docx"
+    }
+]

@@ -1,0 +1,7 @@
+Home - index.html
+About - about.html
+Skills - skills.html
+Projects - projects.html
+Contact - contact.html
+Download My Resume (PDF) - resume.pdf
+Download Certificate (DOCX) - certificate.docx
